@@ -1,5 +1,6 @@
 <?php
 class BankAccount{
+
 	public $type;
 	public $number;
 	public $name;
