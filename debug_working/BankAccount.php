@@ -2,7 +2,7 @@
 class BankAccount{
 
 	public $type; //adding a comment
-	public $number;
+	public $number; // test comment2
 	public $name;
 	public $balance;
 	
