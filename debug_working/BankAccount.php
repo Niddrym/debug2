@@ -1,7 +1,7 @@
 <?php
 class BankAccount{
 
-	public $type;
+	public $type; //adding a comment
 	public $number;
 	public $name;
 	public $balance;
