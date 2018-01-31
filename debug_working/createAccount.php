@@ -4,6 +4,8 @@ include_once("initSession.php");
 
 ?>
 
+
+
 <html>
 <head>
     <title>Create Bank Account</title>
