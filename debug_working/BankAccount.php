@@ -4,7 +4,7 @@ class BankAccount{
 	public $type; //adding a comment
 	public $number; // test comment2
 	public $name;
-	public $balance;
+	public $balance; // add comment 2
 	
 	public static $totalAccounts=0;
 	public static $accounts=[];
